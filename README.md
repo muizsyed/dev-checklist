@@ -35,6 +35,7 @@
 ## Team structure
 - More than one developer on team
 - Whole team takes responsibility for testing (doesnt matter if dedicated tester, or )
+- Team members should be wholly focussed on the product being built (this means individuals should not be working to a different backlog)
 
 ## Testing
 - Unit testing coverage across majority of components (% definition to be agreed by team)
@@ -59,3 +60,7 @@
 - Laptops/Machines are in working condition and fit for job (no exploding batteries)
 - Must be able to run docker*
 - Must be able to run solution offline (and locally) - contentious one
+- Core tooling must be available to engineers quickly. Either they are
+  - pre installed
+  - available to download on-demand
+  - purchased within 24 hours
